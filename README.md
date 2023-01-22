@@ -9,6 +9,10 @@
 <p align="left"> <a href="https://twitter.com/agarwal__aryan" target="blank"><img src="https://img.shields.io/twitter/follow/agarwal__aryan?logo=twitter&style=for-the-badge" alt="agarwal__aryan" /></a> </p>
 
 
+<p align="left"> <a href="https://twitter.com/agarwal__aryan" target="blank"><img src="https://img.shields.io/twitter/follow/agarwal__aryan?logo=twitter&style=for-the-badge" alt="agarwal__aryan" /></a> </p>
+
+
+
 - 🌱 I’m currently learning **Data Structures and Algorithums**
 
 - 💬 Ask me about **Python basics and C basics**
