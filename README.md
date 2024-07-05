@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/agarwal__aryan" target="blank"><img src="https://img.shields.io/twitter/follow/agarwal__aryan?logo=twitter&style=for-the-badge" alt="agarwal__aryan" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithums and Web Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Web Development**
 
 - 💬 Ask me about **Python basics and C basics**
 - 📫 How to reach me **aryanagarwal607@gmail.com**
